@@ -1,0 +1,1 @@
+chrome-extension://iifdmmlholnidpomgpbgejalncoiplhm/thirdparty/xml2json.min.js
