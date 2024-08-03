@@ -1,1 +1,0 @@
-chrome-extension://iifdmmlholnidpomgpbgejalncoiplhm/thirdparty/jquery.min.js
