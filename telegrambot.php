@@ -1,17 +1,3 @@
-<?php
-// Definujte povolenou IP adresu
-$allowed_ip = '123.456.789.0'; // Změňte na požadovanou IP adresu
-
-// Získejte IP adresu uživatele
-$user_ip = $_SERVER['REMOTE_ADDR'];
-
-// Zkontrolujte, zda IP adresa uživatele odpovídá povolené IP adrese
-if ($user_ip !== $allowed_ip) {
-    // Přesměrujte na YouTube video
-    header('Location: https://www.youtube.com/watch?v=dQw4w9WgXcQ');
-    exit();
-}
-?>
 <!DOCTYPE html>
 <html lang="cs">
 <head>
